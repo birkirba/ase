@@ -1,4 +1,4 @@
-#' Adds interpolated values into cells in a boxgrid.
+#' Adds interpolated values into cells in a boxgrid. Github text.
 #'
 #' Adds interpolated values into cells in a boxgrid. First run boxgrid() and keep the resulting plot active.
 #'
